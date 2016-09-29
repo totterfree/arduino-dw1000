@@ -1,0 +1,7 @@
+{
+  "name": "thotro",
+  "author": "Thomas Trojer",
+  "license": "Apache",
+  "version": "0.0.10",
+  "description": "A driver for the dw1000 module"
+}
